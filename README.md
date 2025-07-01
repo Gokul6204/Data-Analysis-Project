@@ -23,7 +23,7 @@ The analysis is based on the **IBM HR Analytics Employee Attrition & Performance
   
 ---
 
-## 🧠 Key Questions Addressed
+**Key Questions Addressed**
 
 1. What is the overall attrition rate?
 2. How does attrition vary by department?
